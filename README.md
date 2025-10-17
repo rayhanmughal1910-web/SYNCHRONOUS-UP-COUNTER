@@ -44,3 +44,5 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+![rtl6](https://github.com/user-attachments/assets/d3e01d4c-64cf-45d4-a823-c96fae435ce7)
+![wave6](https://github.com/user-attachments/assets/56ae6fb9-54e4-4c0f-9ff6-6071e34b1762)
